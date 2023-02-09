@@ -130,17 +130,9 @@
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict>
 				<key>AAPL,ig-platform-id</key>
-				<data>AwCYPg==</data>
-				<key>AAPL,slot-name</key>
-				<string>Internal@0,2,0</string>
+				<data>BwCbPg==</data>
 				<key>device-id</key>
-				<data>mD4AAA==</data>
-				<key>device_type</key>
-				<string>Display controller</string>
-				<key>hda-gfx</key>
-				<string>onboard-2</string>
-				<key>model</key>
-				<string>Intel UHD Graphics 630</string>
+				<data>mz4AAA==</data>
 			</dict>
 		</dict>
 		<key>Delete</key>
@@ -282,7 +274,7 @@
 				<key>BundlePath</key>
 				<string>IntelMausi.kext</string>
 				<key>Comment</key>
-				<string>V1.0.4 | 英特尔有线网卡</string>
+				<string>V1.0.4 | Intel Adapter</string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
